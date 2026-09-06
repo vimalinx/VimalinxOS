@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "name": "VimalinxOS",
+  "repository": "https://github.com/vimalinx/VimalinxOS",
+  "verified_at": "2026-09-06T02:32:41.798141+00:00",
+  "scope": "Public project navigation; not an installation or dependency manifest.",
+  "projects": [
+    {
+      "name": "LocalRouter",
+      "repository": "https://github.com/vimalinx/LocalRouter",
+      "description": "Loopback-first universal API gateway for local AI Agents.",
+      "default_branch": "main",
+      "license_spdx": "AGPL-3.0",
+      "license_url": "https://github.com/vimalinx/LocalRouter/blob/main/LICENSE",
+      "visibility": "public"
+    },
+    {
+      "name": "枢衡 Shuheng",
+      "repository": "https://github.com/vimalinx/Shuheng",
+      "description": "Shuheng: governed terminal control plane for local agents",
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "license_url": "https://github.com/vimalinx/Shuheng/blob/main/LICENSE",
+      "visibility": "public"
+    },
+    {
+      "name": "AgentSeat",
+      "repository": "https://github.com/vimalinx/AgentSeat",
+      "description": "Lightweight Wayland scaffold for AI agents to operate one GUI app without stealing the human's host focus, cursor, workspace, or clipboard.",
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "license_url": "https://github.com/vimalinx/AgentSeat/blob/main/LICENSE",
+      "visibility": "public"
+    },
+    {
+      "name": "Vibe Desktop",
+      "repository": "https://github.com/vimalinx/vibedesktop",
+      "description": "A local-only, single-user web desktop. Complete Apache-2.0 open source; no login, hosted control plane, telemetry, or remote command channel.",
+      "default_branch": "main",
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://github.com/vimalinx/vibedesktop/blob/main/LICENSE",
+      "visibility": "public"
+    },
+    {
+      "name": "AgentBrowser",
+      "repository": "https://github.com/vimalinx/vimalinx-agent-browser",
+      "description": "Owner-isolated real-browser lifecycle for AI agents",
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "license_url": "https://github.com/vimalinx/vimalinx-agent-browser/blob/main/LICENSE",
+      "visibility": "public"
+    },
+    {
+      "name": "Vimalinx AI OS",
+      "repository": "https://github.com/vimalinx/vimalinx-ai-os",
+      "description": "An Arch Linux and Hyprland control plane for durable human-and-Agent work",
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "license_url": "https://github.com/vimalinx/vimalinx-ai-os/blob/main/LICENSE",
+      "visibility": "public"
+    },
+    {
+      "name": "All2Linux / Universal Linux Port",
+      "repository": "https://github.com/vimalinx/universal-linux-port",
+      "description": "Agent Skill and HAI-App contract for porting, reconstructing, and modernizing applications as human- and AI-native Linux software.",
+      "default_branch": "main",
+      "license_spdx": "NOASSERTION",
+      "license_url": "https://github.com/vimalinx/universal-linux-port/blob/main/LICENSE",
+      "visibility": "public"
+    },
+    {
+      "name": "AI Workspace Template",
+      "repository": "https://github.com/vimalinx/ai-workspace-template",
+      "description": "Privacy-first governed workspace template for long-lived human-AI collaboration",
+      "default_branch": "main",
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://github.com/vimalinx/ai-workspace-template/blob/main/LICENSE",
+      "visibility": "public"
+    },
+    {
+      "name": "HyprFlux",
+      "repository": "https://github.com/vimalinx/HyprFlux",
+      "description": "Arch Linux and Hyprland desktop bootstrap, hardware profiles, and modular overlays.",
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "license_url": "https://github.com/vimalinx/HyprFlux/blob/main/LICENSE",
+      "visibility": "public"
+    }
+  ]
+}
